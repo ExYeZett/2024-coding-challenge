@@ -1,3 +1,7 @@
+// Coding Challenge 2024
+// 1/366
+// https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+
 package kata
 
 import "fmt"
